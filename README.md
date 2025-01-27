@@ -32,16 +32,6 @@ PDF report with business insights (FirstName_LastName_EDA.pdf)
 Task 2: Lookalike Model
 Build a model that recommends the top 3 similar customers to a given target customer.
 Similarity scores are calculated using metrics like Euclidean distance or cosine similarity.
-Deliverables:
-Jupyter notebook for Lookalike model (FirstName_LastName_Lookalike.ipynb)
-CSV file with the top 3 lookalikes for each of the first 20 customers (FirstName_LastName_Lookalike.csv)
-Task 3: Customer Segmentation / Clustering
-Segment customers using clustering techniques based on profile and transaction data.
-Evaluate clustering using metrics like the Davies-Bouldin Index (DB Index).
-Deliverables:
-Jupyter notebook for clustering (FirstName_LastName_Clustering.ipynb)
-PDF report with clustering results, DB Index, and other relevant metrics (FirstName_LastName_Clustering.pdf)
-
 How to Run
 Clone the repository:
 
