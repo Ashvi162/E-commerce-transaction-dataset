@@ -20,18 +20,6 @@ The following libraries are required for this project:
 - `scikit-learn`
 - `scipy`
 
-You can install the dependencies using pip:
-pip install pandas numpy matplotlib seaborn scikit-learn scipy
-Task Breakdown
-Task 1: Exploratory Data Analysis (EDA)
-Perform data cleaning, statistical analysis, and data visualization on the customer and transaction datasets.
-Derive business insights to identify important customer behaviors, patterns, and areas for optimization.
-Deliverables:
-Jupyter notebook for EDA (FirstName_LastName_EDA.ipynb)
-PDF report with business insights (FirstName_LastName_EDA.pdf)
-Task 2: Lookalike Model
-Build a model that recommends the top 3 similar customers to a given target customer.
-Similarity scores are calculated using metrics like Euclidean distance or cosine similarity.
 How to Run
 Clone the repository:
 
