@@ -41,11 +41,16 @@ Evaluate clustering using metrics like the Davies-Bouldin Index (DB Index).
 Deliverables:
 Jupyter notebook for clustering (FirstName_LastName_Clustering.ipynb)
 PDF report with clustering results, DB Index, and other relevant metrics (FirstName_LastName_Clustering.pdf)
+
 How to Run
 Clone the repository:
+
 git clone https://github.com/yourusername/customer_segmentation_project.git
+
 Navigate to the project directory:
+
 git clone https://github.com/yourusername/customer_segmentation_project.git
+
 cd customer_segmentation_project
 
 
